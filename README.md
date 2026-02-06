@@ -2,6 +2,8 @@
 
 Simple console application implementing a student records management system using singly linked lists in C++.
 
+![main_interface](images/image.png)
+
 ## Overview
 
 This project stores and manages student records, exam results and subjects using linked-list data structures. It demonstrates basic OOP in C++ across classes such as `Student`, `Exam`, `Subject`, `List`, and `Node`.
