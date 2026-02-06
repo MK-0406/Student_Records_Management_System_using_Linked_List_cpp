@@ -30,7 +30,7 @@ Follow these steps to clone this repository from GitHub and run it in Visual Stu
 
 ```powershell
 git clone https://github.com/MK-0406/Student_Records_Management_System_using_Linked_List_cpp.git
-cd Restaurant_Ordering_System_cpp
+cd Student_Records_Management_System_using_Linked_List_cpp
 ```
 
 2. Open the project in Visual Studio:
